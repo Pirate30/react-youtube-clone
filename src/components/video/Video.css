@@ -1,0 +1,25 @@
+.video {
+  width: 250px;
+  margin-bottom: 20px;
+}
+.video_thumb {
+  height: 150px;
+  width: 240px;
+}
+.video_info {
+  display: flex;
+  margin-top: 10px;
+  padding-right: 30px;
+}
+.video_text {
+  margin-left: 12px;
+}
+.video_text p,
+h4 {
+  margin: 0;
+  padding: 0;
+}
+.video_text p {
+  font-size: 15px;
+  color: rgb(82, 80, 80);
+}
